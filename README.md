@@ -40,7 +40,7 @@
 ---
 
 ## API Document
-[ JObara의 API 문서 👆 ](https://valuable-garnet-407.notion.site/API-aeb68f07e90a477a917edcffff774f27)
+[ JObara의 API 문서 👆 ](https://typical-trick-410.notion.site/API-1aa2f1e9300a4e3082655d4c4eb07978?pvs=4)
 
 ---
 
