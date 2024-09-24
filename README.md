@@ -1,7 +1,7 @@
 # I am
 | 이름 | 사진 | 역할 |  
 |:--:|:--:|:---------------:|
-| 박선규 |<img src="https://github.com/p4rksk/miniproject-jobala-v2-ssr/assets/153582360/cf8fd9c6-50d9-40b5-9914-09527344bf92" width="100">  | (공고)목록보기, 등록, 수정, 삭제 <br/>(이력서)목록보기, 등록, 수정, 삭제<br>(메인 페이지)검색 페이징<br/>API문서 |
+| 박선규 |<img src="https://github.com/p4rksk/miniproject-jobala-v2-ssr/assets/153582360/cf8fd9c6-50d9-40b5-9914-09527344bf92" width="100">  | (공고)목록보기, 등록, 수정, 삭제 <br/>(이력서)목록보기, 등록, 수정, 삭제<br>(메인 페이지)검색 페이징<br/>API문서<br/>단위테스트 |
 ---
 
 # Project v2
