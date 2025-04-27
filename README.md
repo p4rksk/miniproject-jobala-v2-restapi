@@ -15,11 +15,6 @@
 
 ---
 
-# Team
-
-<img src="https://github.com/kjh5848/miniproject-JOBALR/assets/161176345/8bc39efd-533f-4696-ae5c-99b07c0e1462"><br>
-개발자가 되기 위한 비전공자들이 모인 자바라입니다.
-
 ## Teammates
 | Team-Leader | Team-Member | Team-Member | Team-Member | Team-Member |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
